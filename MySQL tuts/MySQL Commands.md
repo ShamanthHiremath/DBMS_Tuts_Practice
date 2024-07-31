@@ -1,4 +1,7 @@
-# SQL Queries with Exxamples
+# SQL Queries with Examples
+
+```shell
+# General Commands
 
 --(not case sensitive)
 

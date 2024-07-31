@@ -1,3 +1,8 @@
+# SQL Queries with Examples
+
+```shell
+# General Commands
+
 CREATE DATABASEIF NOT EXISTS college;
 
 USE college;

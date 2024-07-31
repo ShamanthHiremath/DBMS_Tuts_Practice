@@ -1,5 +1,8 @@
 # MongoDB Commands with Examples
 
+```shell
+# General Commands
+
 // MongoDB stores data as JSON (Java Script Object Notation) objects, which are stored as BSON (Binary JSON) objects in the database, with the engine being used as WiredTiger at the MONGODB backend
 
 // Allows us to do CRUD (Create, Read, Update, Delete) operations on the database
