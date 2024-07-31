@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66a76d191e4387f6028ca807"
+  },
+  "title": "ABC1",
+  "author": "XYZ1",
+  "pages": 600,
+  "genre": [
+    "Fantasy",
+    "Drama"
+  ],
+  "rating": 8,
+  "fbloggedin": "yes"
+},
+{
+  "_id": {
+    "$oid": "66a76db21e4387f6028ca80a"
+  },
+  "title": "Objectifying Homies",
+  "author": "Master Faggot",
+  "pages": 600,
+  "genre": [
+    "Fantasy",
+    "Homosexuality"
+  ],
+  "rating": 10,
+  "fbloggedin": "yes"
+},
+{
+  "_id": {
+    "$oid": "66a787fe1e4387f6028ca80b"
+  },
+  "title": "All previous content deleted, new content field created",
+  "content": "All previous content deleted, new content field created"
+}]

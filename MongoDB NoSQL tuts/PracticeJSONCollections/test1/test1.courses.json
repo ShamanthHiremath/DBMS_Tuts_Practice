@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66a7c1d95d561327fbb04bba"
+  },
+  "name": "Machine Learning",
+  "price": 2999
+},
+{
+  "_id": {
+    "$oid": "66a7c23d5d561327fbb04bbb"
+  },
+  "title": "Web Development Bootcamp",
+  "price": 1999,
+  "faq": {
+    "q1": "ans1",
+    "q2": "ans2"
+  }
+}]

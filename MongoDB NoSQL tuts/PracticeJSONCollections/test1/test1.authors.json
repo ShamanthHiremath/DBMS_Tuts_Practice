@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66a6b205e21149192e0054ef"
+  },
+  "name": "Author1",
+  "age": 20,
+  "awards": [
+    "Manbooker",
+    "Hare raam"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a6b205e21149192e0054f0"
+  },
+  "name": "Author2",
+  "age": 21
+}]

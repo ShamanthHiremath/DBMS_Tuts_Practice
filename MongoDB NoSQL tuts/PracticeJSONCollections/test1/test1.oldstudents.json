@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "66a7998c1e4387f6028ca826"
+  },
+  "name": "Hitesh",
+  "email": "hitesh@hiteshchoudhary.com",
+  "contact": "9999999999",
+  "courseCount": 4,
+  "isVerified": true,
+  "thumbnails": {
+    "small": 50,
+    "medium": 100,
+    "large": 500
+  },
+  "lastlogin": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thurs",
+    "Fri",
+    "Sat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66a7998c1e4387f6028ca827"
+  },
+  "name": "Mark",
+  "email": "mark@example.com",
+  "contact": "9999999888",
+  "courseCount": 2,
+  "isVerified": false,
+  "thumbnails": {
+    "small": 50,
+    "medium": 100,
+    "large": 200
+  },
+  "lastlogin": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thurs",
+    "Fri"
+  ],
+  "weekoff": [
+    "Sat",
+    "Sun"
+  ]
+}]

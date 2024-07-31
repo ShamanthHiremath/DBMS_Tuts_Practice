@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca80c"
+  },
+  "name": "Hitesh",
+  "email": "hitesh@hiteshchoudhary.com",
+  "courseCount": 4
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca80d"
+  },
+  "name": "Mark",
+  "email": "mark@example.com",
+  "courseCount": 2
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca80e"
+  },
+  "name": "Tom",
+  "email": "tom@example.com",
+  "courseCount": 5
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca80f"
+  },
+  "name": "Jerry",
+  "email": "jerry@example.com",
+  "courseCount": 3
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca810"
+  },
+  "name": "spider",
+  "email": "spider@example.com",
+  "courseCount": 2
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca811"
+  },
+  "name": "super",
+  "email": "super@example.com",
+  "courseCount": 3
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca812"
+  },
+  "name": "Jade",
+  "email": "jade@example.com",
+  "courseCount": 2
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca813"
+  },
+  "name": "Theodore",
+  "email": "theodore@example.com",
+  "courseCount": 2
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca814"
+  },
+  "name": "Kirk",
+  "email": "kirk@example.com",
+  "courseCount": 9
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca815"
+  },
+  "name": "Fleming",
+  "email": "fleming@example.com",
+  "courseCount": 12
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca816"
+  },
+  "name": "Roberta",
+  "email": "roberta@example.com",
+  "courseCount": 5
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca817"
+  },
+  "name": "Lawrence",
+  "email": "lawrence@example.com",
+  "courseCount": 8
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca818"
+  },
+  "name": "Terry",
+  "email": "trry@example.com",
+  "courseCount": 13
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca819"
+  },
+  "name": "Rhodes",
+  "email": "rhodes@example.com",
+  "courseCount": 14
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81a"
+  },
+  "name": "Sullivan",
+  "email": "sullivan@example.com",
+  "courseCount": 17
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81b"
+  },
+  "name": "Robert",
+  "email": "robert@example.com",
+  "courseCount": 13
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81c"
+  },
+  "name": "Gordon",
+  "email": "gordon@example.com",
+  "courseCount": 18
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81d"
+  },
+  "name": "Henry",
+  "email": "henry@example.com",
+  "courseCount": 2
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81e"
+  },
+  "name": "May",
+  "email": "may@example.com",
+  "courseCount": 5
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca81f"
+  },
+  "name": "Clark",
+  "email": "clark@example.com",
+  "courseCount": 19
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca820"
+  },
+  "name": "Katrina",
+  "email": "katrina@example.com",
+  "courseCount": 13
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca821"
+  },
+  "name": "Mayers",
+  "email": "mayers@example.com",
+  "courseCount": 11
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca822"
+  },
+  "name": "Tina",
+  "email": "tina@example.com",
+  "courseCount": 14
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca823"
+  },
+  "name": "Mason",
+  "email": "mason@example.com",
+  "courseCount": 4
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca824"
+  },
+  "name": "Alexis",
+  "email": "alexis@example.com",
+  "courseCount": 13
+},
+{
+  "_id": {
+    "$oid": "66a78ac21e4387f6028ca825"
+  },
+  "name": "Ford",
+  "email": "ford@example.com",
+  "courseCount": 9
+}]
