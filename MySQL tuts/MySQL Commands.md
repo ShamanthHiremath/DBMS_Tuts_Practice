@@ -1,6 +1,6 @@
-SQL QUERIES
+# SQL Queries with Exxamples
 
-(not case sensitive)
+--(not case sensitive)
 
 -- IN-LINE COMMENT
 /*
