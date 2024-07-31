@@ -8,7 +8,7 @@
 // Allows us to do CRUD (Create, Read, Update, Delete) operations on the database
 // MongoDB is schema-less, which means that we can insert any type of data into the database, without having to define the schema of the data beforehand
 // MongoDB is a NoSQL database, which means that it does not use SQL (Structured Query Language) to interact with the database, but uses its own query language to interact with the database
-// Triple A's of MongoDB: Application, Analytics and Administration
+// Triple As of MongoDB: Application, Analytics and Administration
 
 
 // If not in MongoDB Compass, then open the terminal and type mongosh to enter the MongoDB shell
